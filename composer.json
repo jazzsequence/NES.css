@@ -1,0 +1,13 @@
+{
+    "name": "jazzsequence/nes.css",
+    "description": "NES-style CSS Framework (forked form NPM version)",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Chris Reynolds",
+            "email": "chris@jazzsequence.com"
+        }
+    ],
+    "require": {}
+}
